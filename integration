@@ -1963,6 +1963,7 @@
   "ha-parcel-integrations/ha-ups",
   "ha-parcel-integrations/ha-usps",
   "ha-parcel-integrations/ha-vinted-go",
+  "ha-parcel-integrations/ha-xlcourier",
   "HA-Pulse/home-assistant-global-health-score",
   "ha-securemtr/ha-securemtr",
   "ha-termoweb/ha-termoweb",
